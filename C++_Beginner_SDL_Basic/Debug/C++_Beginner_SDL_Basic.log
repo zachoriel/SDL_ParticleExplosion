@@ -1,0 +1,8 @@
+﻿  C++_Beginner_SDL_Basic.cpp
+c:\users\zach\source\repos\c++_beginner_sdl_basic\c++_beginner_sdl_basic\c++_beginner_sdl_basic.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\zach\source\repos\c++_beginner_sdl_basic\c++_beginner_sdl_basic\c++_beginner_sdl_basic.cpp(33): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\zach\source\repos\c++_beginner_sdl_basic\c++_beginner_sdl_basic\c++_beginner_sdl_basic.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\zach\source\repos\c++_beginner_sdl_basic\c++_beginner_sdl_basic\c++_beginner_sdl_basic.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\zach\source\repos\c++_beginner_sdl_basic\c++_beginner_sdl_basic\c++_beginner_sdl_basic.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\zach\source\repos\c++_beginner_sdl_basic\c++_beginner_sdl_basic\c++_beginner_sdl_basic.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  C++_Beginner_SDL_Basic.vcxproj -> C:\Users\Zach\source\repos\C++_Beginner_SDL_Basic\Debug\C++_Beginner_SDL_Basic.exe
